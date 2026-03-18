@@ -1,7 +1,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/panshaigan/Shar-Teel-SoD?color=darkred&include_prereleases&label=latest%20release)](https://github.com/panshaigan/Shar-Teel-SoD/releases/latest)
 [![Github downloads (all releases)](https://img.shields.io/github/downloads/panshaigan/Shar-Teel-SoD/total.svg?color=gold)](https://github.com/panshaigan/Shar-Teel-SoD/releases)
 [![Platform](https://img.shields.io/static/v1?label=platform&message=Windows%20%7C%20macOS%20%7C%20Linux&color=informational)](https://github.com/panshaigan/Shar-Teel-SoD/releases/latest)
-[![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=SoD%3AEE%20%7C%20EET&color=indigo)](https://github.com/panshaigan/Shar-Teel-SoD/releases)
+[![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG:%3ASoD%20%7C%20EET&color=indigo)](https://github.com/panshaigan/Shar-Teel-SoD/releases)
 [![Language](https://img.shields.io/static/v1?label=language&message=English&color=limegreen)](https://github.com/SpellholdStudios/BGSpawn/releases)
 
 # Shar-Teel SoD – Playable Shar-Teel NPC for Siege of Dragonspear
